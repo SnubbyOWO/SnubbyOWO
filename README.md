@@ -2,7 +2,7 @@
 <h3 align="center">Just an average high schooler</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snubbyowo&label=Profile%20views&color=0e75b6&style=flat" alt="snubbyowo" /> </p>
-<img style="border-radius: 15px;" align="right" width="500" height="500" src="https://snubbyowo.github.io/pictures/snubs.png">
+<img align="right" width="500" height="500" src="https://snubbyowo.github.io/pictures/circle.png">
 
 - I’m currently learning **🟨 TypeScript, 🟥 Java, etc.**
 
