@@ -2,7 +2,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=snubbyowo&label=Profile%20views&color=0e75b6&style=flat" alt="snubby" />
 </p>
-<img align="right" width="500" height="500" src="https://snubbyowo.github.io/pictures/circle.png"> 
 
 - I’m currently learning **🟨 TypeScript, 🟥 Java, etc.**
 
