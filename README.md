@@ -3,13 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=snubbyowo&label=Profile%20views&color=0e75b6&style=flat" alt="snubby" />
 </p>
 
-- I’m currently learning **🟨 TypeScript, 🟥 Java, etc.**
-
 - All of my projects are available at my [About Me.](https://snubbyowo.github.io/)
 
 - Discord - **@Snubby.jpg**
 
-- Fun fact : **Like you didnt know this already I like anime and like vtubers**
+- Fun fact : **I like slime rancher**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
